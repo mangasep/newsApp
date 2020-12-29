@@ -23,4 +23,5 @@ This repository is the final result of the source code that is created at a webi
 * Finally, run to emulator
 
 ## Image Result
+![image](https://raw.githubusercontent.com/mangasep/newsApp/master/image/image_result.png)
 
